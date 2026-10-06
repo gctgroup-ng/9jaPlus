@@ -28,7 +28,7 @@ export function WhySection() {
           </p>
         </div>
 
-        <div className="mt-20 grid grid-cols-2 gap-x-6 gap-y-12 border-t border-[#CFE8D9] pt-10 md:grid-cols-4">
+        {/* <div className="mt-20 grid grid-cols-2 gap-x-6 gap-y-12 border-t border-[#CFE8D9] pt-10 md:grid-cols-4">
           {stats.map(({ number, label }) => (
             <div key={label}>
               <p className="text-4xl font-semibold tracking-tighter text-[#005A36] sm:text-5xl">
@@ -37,7 +37,7 @@ export function WhySection() {
               <p className="mt-3 text-sm text-[#42715C]">{label}</p>
             </div>
           ))}
-        </div>
+        </div> */}
       </div>
     </section>
   )
