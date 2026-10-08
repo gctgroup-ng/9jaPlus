@@ -8,7 +8,7 @@ export function HeroSection() {
       <div className="relative mx-auto grid max-w-7xl items-center gap-14 px-6 pb-24 pt-8 lg:grid-cols-[1.1fr_.9fr] lg:px-10 lg:pb-32 lg:pt-14">
         <div>
           <p className="mb-6 inline-flex items-center gap-2 rounded-full border border-[#008751] px-4 py-2 text-xs font-semibold uppercase tracking-[0.18em] text-[#6BE4A4]">
-            <span className="size-2 rounded-full bg-[#6BE4A4]" /> Always connected to home
+            <span className="size-2 rounded-full bg-[#6BE4A4]" /> Always connected to home!
           </p>
           <h1 className="max-w-3xl text-5xl font-semibold leading-[1.02] tracking-[-0.055em] sm:text-7xl lg:text-[6.5rem]">
             Home is never <span className="text-[#6BE4A4]">far away.</span>
