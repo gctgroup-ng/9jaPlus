@@ -14,7 +14,7 @@ export function HeroSection() {
             Home is never <span className="text-[#6BE4A4]">far away.</span>
           </h1>
           <p className="mt-8 max-w-xl text-lg leading-8 text-white/72">
-            Airtime, data, eSIMs, and international calling, unified for Nigerians everywhere.
+            Airtime, data, eSIMs, and International calling, unified for Nigerians everywhere.
           </p>
           <div className="mt-10 flex flex-wrap gap-4">
             <a
@@ -22,7 +22,7 @@ export function HeroSection() {
               className="rounded-full bg-[#1016A8] px-6 py-3.5 font-semibold text-[#ffffff] transition hover:bg-[#1016A8]/50"
             >
               Explore services 
-              {/* <ArrowUpRight className="ml-1 inline size-4" /> */}
+              {<ArrowUpRight className="ml-1 inline size-4" />}
             </a>
             <a
               href="#why-9ja"
