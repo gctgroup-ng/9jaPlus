@@ -21,7 +21,8 @@ export function HeroSection() {
               href="#services"
               className="rounded-full bg-[#1016A8] px-6 py-3.5 font-semibold text-[#ffffff] transition hover:bg-[#1016A8]/50"
             >
-              Explore services <ArrowUpRight className="ml-1 inline size-4" />
+              Explore services 
+              {/* <ArrowUpRight className="ml-1 inline size-4" /> */}
             </a>
             <a
               href="#why-9ja"
