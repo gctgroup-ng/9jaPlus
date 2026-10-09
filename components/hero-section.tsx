@@ -14,7 +14,7 @@ export function HeroSection() {
             Home is never <span className="text-[#6BE4A4]">far away.</span>
           </h1>
           <p className="mt-8 max-w-xl text-lg leading-8 text-white/72">
-            Airtime, data, eSIMs, and International calling, unified for Nigerians everywhere.
+            Airtime, data, eSIMs, and International calling, unified for Nigerians everywhere. Everywhere you goooo
           </p>
           <div className="mt-10 flex flex-wrap gap-4">
             <a
