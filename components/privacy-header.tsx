@@ -5,7 +5,7 @@ interface PrivacyHeaderProps {
   lastUpdated?: string
 }
 
-export function PrivacyHeader({ lastUpdated = 'October 6, 2026' }: Readonly<PrivacyHeaderProps>) {
+export function PrivacyHeader({ lastUpdated = 'November 5, 2026' }: Readonly<PrivacyHeaderProps>) {
   return (
     <div className="border-b border-[#CFE8D9]/60 bg-[#E6F4EC]/40 py-12 lg:py-16">
       <div className="mx-auto max-w-4xl px-6 lg:px-10">
