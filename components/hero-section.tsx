@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import { ArrowUpRight } from 'lucide-react'
+import { StoreBadges } from '@/components/store-badges'
 
 export function HeroSection() {
   return (
@@ -30,6 +31,12 @@ export function HeroSection() {
             >
               Why 9jaPlus
             </a>
+          </div>
+          <div className="mt-10">
+            <p className="mb-3 text-xs font-semibold uppercase tracking-[0.18em] text-white/60">
+              Get the app
+            </p>
+            <StoreBadges />
           </div>
         </div>
 
