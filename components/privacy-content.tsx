@@ -6,8 +6,6 @@ export interface PrivacySectionData {
   contactEmail?: string
 }
 
-// CONFIRM BEFORE RELEASE: two placeholders in the "face-data" section need real values
-// from engineering/legal: [RETENTION PERIOD] and [STORAGE LOCATION].
 
 export const PRIVACY_SECTIONS: PrivacySectionData[] = [
   {
@@ -84,7 +82,7 @@ export const PRIVACY_SECTIONS: PrivacySectionData[] = [
     id: 'sharing-and-security',
     title: 'Sharing and security',
     content:
-      'We share information only with trusted third-party providers necessary to operate our services—including telecommunications carriers and eSIM roaming partners, VoIP/voice termination providers, QoreID for identity and biometric KYC verification, Google and Apple for authentication, and payment processors—or where required by applicable law. Face data is never sold and is not shared with any third party other than our verification partners, QoreID and FaceTec, which process it on our behalf solely to perform verification. We apply technical and organizational safeguards to protect your data, though no internet transmission is completely secure.',
+      'We share information only with trusted third-party providers necessary to operate our services—including telecommunications carriers and eSIM roaming partners, VoIP/voice termination providers, QoreID for identity and biometric KYC verification, Google and Apple for authentication, and payment processors—or where required by applicable law. Face data is never sold and is not shared with any third party other than our verification partners, QoreID, which process it on our behalf solely to perform verification. We apply technical and organizational safeguards to protect your data, though no internet transmission is completely secure.',
   },
   {
     id: 'your-choices',
