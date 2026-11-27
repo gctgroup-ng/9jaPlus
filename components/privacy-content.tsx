@@ -12,7 +12,7 @@ export const PRIVACY_SECTIONS: PrivacySectionData[] = [
     id: 'commitment',
     title: 'Our commitment',
     content:
-      '9jaPlus by IntarvAS, operated by IntarvAS Communications Limited, respects your privacy. This policy explains how we collect, use, and protect information—as well as the device permissions required—when you use our mobile applications, website, and connectivity services, including eSIM provisioning, airtime/data top-ups, and internet calls.',
+      '9jaPlus by IntarvAS, operated by IntarvAS Communications Limited, respects your privacy. This policy explains how we collect, use, and protect information as well as the device permissions required when you use our mobile applications, website, and connectivity services, including eSIM provisioning, airtime/data top-ups, and internet calls.',
   },
   {
     id: 'app-features-and-services',
@@ -84,7 +84,7 @@ export const PRIVACY_SECTIONS: PrivacySectionData[] = [
     id: 'sharing-and-security',
     title: 'Sharing and security',
     content:
-      'We share information only with trusted third-party providers necessary to operate our services—including telecommunications carriers and eSIM roaming partners, VoIP/voice termination providers, QoreID for identity and biometric KYC verification, Google and Apple for authentication, and payment processors—or where required by applicable law. Face data is never sold. It is processed by our verification partner, QoreID, on our behalf to perform verification, and is disclosed to others only where necessary to deliver the service or where required by law or regulators, as described in "Face data and biometric verification". We apply technical and organizational safeguards to protect your data, though no internet transmission is completely secure.',
+      'We share information only with trusted third-party providers necessary to operate our services including telecommunications carriers and eSIM roaming partners, VoIP/voice termination providers, QoreID for identity and biometric KYC verification, Google and Apple for authentication, and payment processors or where required by applicable law. Face data is never sold. It is processed by our verification partner, QoreID, on our behalf to perform verification, and is disclosed to others only where necessary to deliver the service or where required by law or regulators, as described in "Face data and biometric verification". We apply technical and organizational safeguards to protect your data, though no internet transmission is completely secure.',
   },
   {
     id: 'your-choices',
